@@ -2,6 +2,7 @@ ck_slide
 ========
 
 图片轮播
+修改测试
 
 // 渐变播放
 $('.ck-slide').ckSlide({
